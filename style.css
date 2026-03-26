@@ -1,0 +1,32 @@
+.F{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 30px;
+    border: 2px solid rgba(0, 0, 255, 0.702);
+    color: rgb(2, 9, 85);
+}
+
+.R{
+    color: rgb(238, 7, 7);
+    background-color: yellow;
+}
+
+.E{
+    background-color: rgb(47, 200, 211);
+}
+
+.H{
+   background-color: aqua;
+    height: 33px;
+    width: 1200px;
+    background-color: rgba(0, 255, 255, 0.781); 
+}
+
+.s{
+    justify-content: end;
+    justify-self:last baseline
+}
+
+
+
+
